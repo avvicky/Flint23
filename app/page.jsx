@@ -11,7 +11,7 @@ export default function Home() {
           <h2 className="reg-desc-3">Organizes</h2>
         </div>
         <p className="name">
-          <span>FLINT</span>'23
+          <span>FLINT</span>23
         </p>
         <p className="date">
           <Image
