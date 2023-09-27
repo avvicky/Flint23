@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata = {
   title: "Flint'23",
   description:
-    "ITELITZ is an national level technical symposium orgaized by Department of Information Technology at Mahendta College Of Engineering",
+    "Flint'23 is an national level technical symposium orgaized by Department of Information Technology at Mahendta College Of Engineering",
 };
 
 export default function RootLayout({ children }) {
