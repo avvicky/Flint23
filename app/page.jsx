@@ -1,6 +1,5 @@
 "use client";
 import Image from "next/image";
-// import Calender from "assetscalender.svg";
 
 export default function Home() {
   return (
@@ -15,7 +14,12 @@ export default function Home() {
           <span>FLINT</span>'23
         </p>
         <p className="date">
-          <Image src={"/assets/calender.svg"} height={30} width={30} />
+          <Image
+            src={"/assets/calender.svg"}
+            height={30}
+            width={30}
+            alt="calender"
+          />
           October 9 2023
         </p>
         <a
